@@ -13,6 +13,8 @@
 
   },
   "autoload": {
-    "Riftfox\\Wechat\\Session\\": "src/"
+    "psr-4": {
+      "Riftfox\\Wechat\\Session\\": "src/"
+    }
   }
 }
