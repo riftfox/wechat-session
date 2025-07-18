@@ -1,0 +1,18 @@
+{
+  "name": "riftfox/wechat-session",
+  "description": "微信小程序登录session接口设计",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Riftfox",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+
+  },
+  "autoload": {
+    "Riftfox\\Wechat\\Session\\": "src/"
+  }
+}
